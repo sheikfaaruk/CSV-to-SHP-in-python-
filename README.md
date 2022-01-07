@@ -2,19 +2,19 @@
 Using Python we converting csv file to shp file 
 
 #Install below Packages to run the python program 
-#=>pandas    
+# pandas    
  ```sh
   pip install pandas
   ```
-#=>geopandas 
+# geopandas 
 ```sh
   pip install geopandas
   ``` 
-#=> fiona
+# fiona
 ```sh
   pip install Fiona
   ```
-#=> matplotlib
+# matplotlib
 ```sh
   pip install matplotlib
   ```
